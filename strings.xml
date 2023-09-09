@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Account Activity</string>
+    <string name="arrow">ArrowBack</string>
+    <string name="accsetting">Account Setting</string>
+    <string name="accnum">Account Number</string>
+    <string name="usern">User Name</string>
+    <string name="pinc">Pin Passcode</string>
+    <string name="accn">Account Number</string>
+    <string name="user">User Name</string>
+    <string name="pin">Pin Passcode</string>
+    <string name="accrecov">Account Recovery</string>
+    <string name="changenum">Change Mobile Number</string>
+    <string name="addbio">Add Biometric</string>
+    <string name="changepass">Change Password</string>
+    <string name="acclimi">Account Limit</string>
+
+
+    <string name="recovery">Account Recovery</string>
+    <string name="btn">Change Recovery Email Address</string>
+
+
+
+    <string name="save_btn">Save Changes</string>
+</resources>
